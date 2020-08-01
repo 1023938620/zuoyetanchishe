@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Wed Jul 29 22:29:38 2020
+# Process ID: 4704
+# Current directory: D:/verilog_docs/snake_picture/snake_picture.runs/impl_1
+# Command line: vivado.exe -log Lab_10.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Lab_10.tcl -notrace
+# Log file: D:/verilog_docs/snake_picture/snake_picture.runs/impl_1/Lab_10.vdi
+# Journal file: D:/verilog_docs/snake_picture/snake_picture.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source Lab_10.tcl -notrace
